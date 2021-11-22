@@ -1,0 +1,7 @@
+ct_management_account_id    = ""
+log_archive_account_id      = ""
+audit_account_id            = ""
+aft_management_account_id   = ""
+github_username             = ""
+ct_home_region              = ""
+tf_backend_secondary_region = ""
