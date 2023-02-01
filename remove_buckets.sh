@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 export AFT_MGMT_ACCT="$(terraform output -raw aft_management_account_id)"
 export LOG_ACCT="$(terraform output -raw log_archive_account_id)"
 export REGION="$(terraform output -raw region)"
